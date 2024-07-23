@@ -140,7 +140,7 @@ body {
 
 .hero-list {
   flex-basis: calc((100% - 60px) / 3);
-
+  background-color: var(--main-background);
 }
 
 .hero-item {
